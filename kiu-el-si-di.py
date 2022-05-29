@@ -1,4 +1,4 @@
-# kiu-el-si-di main script
+# Kiu-El-Si-Di main script
 # Copyright (C) 2022 Erdem Ersoy (eersoy93)
 #
 # This program is free software: you can redistribute it and/or modify
